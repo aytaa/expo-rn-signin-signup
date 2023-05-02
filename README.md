@@ -1,2 +1,2 @@
 # expo-rn-signin-signup
-Signin -Signup Example
+This repository is a sample project built using React Native Expo. The project includes a number of pre-built UI components, including buttons, forms, and navigation menus, as well as functionality for working with APIs and database management. This project serves as a starting point for those looking to build their own mobile apps using React Native Expo. Feel free to fork this repository and use it as a template for your own projects
